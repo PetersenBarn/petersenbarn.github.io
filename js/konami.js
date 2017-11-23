@@ -38,5 +38,5 @@ var allowedKeys = {
   });
   
   function activateCheats() {
-    document.body.style.backgroundImage = "url('img/fishbig.jpg')";
+    document.body.style.backgroundImage = "url('img/fish.jpg')";
   }
